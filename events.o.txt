@@ -1,0 +1,146 @@
+
+-----
+﻿Civil War: 
+1861 : 8
+1865 : 5
+-----
+American Revolution: 
+1765 : 4
+1783 : 7
+1775 : 6
+-----
+Anglo-Boer Wars: 
+1899 : 15
+1902 : 14
+-----
+Australian Colonization: 
+1788 : 21
+1850 : 9
+-----
+Balkan Wars: 
+1912 : 18
+1913 : 16
+-----
+Battle of Adwa: 
+1896 : 20
+-----
+Boxer Rebellion: 
+1900 : 7
+1899 : 4
+1901 : 6
+-----
+Berlin Conference: 
+1884 : 28
+1885 : 15
+-----
+Brazillian Independence: 
+1822 : 10
+-----
+Communist Manifesto date published: 
+1848 : 15
+-----
+Congo independence: 
+-----
+Crimean War: 
+1853 : 7
+1856 : 11
+1854 : 7
+-----
+Emancipation of Russian serfs: 
+1861 : 40
+-----
+French Revolution: 
+1789 : 12
+1799 : 7
+-----
+German unification: 
+1871 : 25
+1918 : 5
+-----
+Great trek dates: 
+1835 : 12
+1846 : 6
+-----
+Greek Independence: 
+1821 : 12
+1832 : 5
+-----
+Haitian Revolution: 
+1803 : 4
+1791 : 12
+1804 : 8
+-----
+Indian National Congress founded: 
+1885 : 19
+-----
+James Watt’s steam engine date: 
+1819 : 4
+-----
+Janissary Corps abolished: 
+1826 : 7
+-----
+Japanese annexation of Korea: 
+1910 : 31
+1905 : 4
+-----
+Latin American wars of independence years: 
+1808 : 6
+-----
+Meji Period dates: 
+1868 : 18
+1912 : 13
+1867 : 4
+-----
+Mexican Independence date: 
+1810 : 11
+1821 : 5
+-----
+What years did Muhammad Ali rule Egypt : 
+1769 : 5
+1849 : 4
+1805 : 6
+-----
+Opium Wars dates: 
+1839 : 11
+1860 : 4
+1842 : 8
+-----
+Persian Constitutional Revolution: 
+1905 : 12
+1911 : 13
+1906 : 8
+-----
+Qing Dynasty Overthrown: 
+1911 : 35
+1912 : 9
+-----
+Sepoy Mutiny: 
+1857 : 45
+-----
+Seven Years war dates: 
+1756 : 12
+1763 : 11
+1750 : 4
+-----
+Stolypin REforms: 
+1906 : 5
+1911 : 4
+-----
+Suez Canal opened: 
+1869 : 12
+-----
+Taiping Rebellion: 
+1850 : 14
+1864 : 15
+1750 : 4
+-----
+Tanzimat Reforms: 
+1839 : 14
+1876 : 9
+1856 : 4
+-----
+New Zealand Women’s Suffrage: 
+1893 : 11
+-----
+Young Turk Revolution: 
+1908 : 15
